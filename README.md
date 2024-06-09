@@ -3,10 +3,11 @@ O Microsoft Excel é um software utilizado para elaboração, edição e gerenci
 
 A tela inicial do Microsoft Excel permite a escolha de uma planilha em branco, ou de planilhas já pré-formatadas em um modelo. O usuário pode escolher se deseja iniciar a sua planilha a partir de uma planilha em branco ou de um modelo que já possui algumas formatações pré-definidas. Nas próximas seções trabalharemos como iniciar uma planilha, inserir dados, formatá-los e como gerar gráficos a partir desses dados
 
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1717603200000/Dmh5D2zqJrGoNMSPtukZNw/DE_0puDJgB_16SwM5Zgk5I_7Tfhf6nSfxpU2G_yM9klV58kyTaR6D-Jdw1nVlku6tTjK85wzB9oFs47qJPieU7kpqsyg-ZggJXM_lUCXKlApn5y_g1W7sJX5uPYvdr6lnQDdZxPZO_1RKOByx03oY1dX-mBCFJbiVVIlEXgFp7A/LAimxm8GnyzrVfZF1yiVFwNfusWOWOnI_X4YLbA_o8I">
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/WEMQ3Kvl9laYOO1GwiDO0A/WvzvoKH4_rVVzCf3uprPDrQIsXwlnkXdSoUr-JvqR9jeVVc2J18SN5NvbDwq5ncFCBvnYf47KP_DKuqOM0i9ATYQ7Uh1i60UifwJBvBQkUKmluoZZkwIPaqWkpGqBjzDjXiWkjnY7t68o8cYrIMcaA/Cy1IE24YveXqQVY4Qk-r-CUYhw89ULMuCA7BOPiTtYM)
 
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1717603200000/cjzHL4b6pltKBtc-byepZw/Vswf6rkE2w7U8ztZVYRYeFwpvMdw5sN_bCybu66-9WdeEDTcWGM2-z7zvyeknGY31ZPaq77dAPqss2Zuij6tcZ6raYf8tY4XXFZ95QyAXe5GuNY-6eahe8hOhQ8LhSI0OaD4zr9l1k8ZLJMt9oJfWQ/NcC5Ou9VOI5vHk_aVH-TbEi7Wrzd5fxYIh1LWQa_u-A">
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/K1NlLEVcv9qLjX9tULFwaQ/ZaCU2a4iCKXBqGOH_WU_QBod1O_NC1GgaCYE9D88L3OnUCSBabxkxkfke3XLfn0amG8o_AaT1__LGPzmXnesDuhD_piCyrEPTZZVq5SsGHXf_VcJD4h7oraOVgoI_8plADfOfpdcpyN1EZsChJkh3w/o2SiPBmCeUzDA-oaQ2HmsZouSrQ9ucdhkRilI3Vl23I)
 
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1717603200000/4lW4xq_FRuz1SSeqRwRuOg/ysgHH3LCf56dsQaud5mUjjhcE7eg36y-TTxlD7PmfS870chTR-9IdvAeSV5TFv9MacNl99q12Ui8Dgxn0upiR8UMYa4BZRSr0iUOvY-jHfzTZcP6Ii5TqnJrjZL0tYrLsamHnxeEbUbAL5YTQ2TsGg/R45xP8hC4pua4Xnd6CtsMqzGZctnNL6ZqoYDIcY0Zss">
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/_GVLtow7ZRTpGCKWuaHy2w/1C0TBUT7gmvyeWKprigfRmgfXFMqPGFBsEYl6wtMAgDYB7KsZr2sMpk8CHMdwhOU6D7xRPjgTqu7kYDU_BlbgMM134LtGPr9c8k60Yw65v6eGIGJodU2LZ-Lkz-eaB6rpVfwu5frtvZiOTQ0UgsExg/QmRLxW_xOeb84L7KXaAuNbjDq1xrjTbu3xyrFsTF0J4)
 
+![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1717984800000/zyzqYF7NEH_Cbb-u5aSMVw/yXUQze98k3tt1iC1f0IXBEWuRlyMmBN4zogv_-qcCETAjS9B2fbNRYrWxJOyUXfSgBqPpMPob0rMjaZKqbj-W9GjlK3I1r_yQfxkqv4d5lAV1BbNh6vRaFdu0WJ74GbnURisaZp-Na8CVOvfozhIz-rt9_xIN7Qu60qiu_aH5rQ/pxhCPlMByREz-fxaTfCbJE2S5IFDSDReXkKyp3cFxQ8)
 
