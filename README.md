@@ -13,3 +13,7 @@ A tela inicial do Microsoft Excel permite a escolha de uma planilha em branco, o
 can I help you?
 
 ![Alt text](https://res.cloudinary.com/dsiexpoig/image/upload/v1718117411/Helpexls_vbm7i2.jpg)
+
+Simulador de Taxas Antecipação "Maquininhas" Brazil
+
+![Alt text](https://res.cloudinary.com/dsiexpoig/image/upload/v1718131748/SimuladorTxas_ujygtu.jpg)
